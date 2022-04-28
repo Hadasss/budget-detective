@@ -1,4 +1,4 @@
-### budget-detective
+# budget-detective
 
 ## Project Description
 
