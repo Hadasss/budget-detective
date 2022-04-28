@@ -26,6 +26,8 @@ Perfect for travel or any situation where you have many transactions being made 
 There are no tests for this program.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/80355222/165814054-460410f8-6573-4855-a934-bc607f9a8950.png)
+
 
 ## Deployment
 
